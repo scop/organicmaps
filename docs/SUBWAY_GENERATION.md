@@ -4,7 +4,7 @@ For the subway layer to be available in Organic Maps a `SUBWAY_URL`
 parameter ought to be provided to the
 [map generator](https://github.com/organicmaps/organicmaps/tree/master/tools/python/maps_generator).
 Normally you can specify the link https://cdn.organicmaps.app/subway.json
-to a regularily updatable file.
+to a regularly updatable file.
 This instruction describes how to manually build subway layer file.
 
 Japan is used as target country but any other region from one city to the

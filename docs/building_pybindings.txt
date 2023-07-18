@@ -21,7 +21,7 @@ Ensure you have ran:
 
 Building single pybinding module
 --------------------------------
-Find a correspoding module's setup.py.
+Find a corresponding module's setup.py.
 Currently available modules and setup's:
 | module      | path to setup.py                       |
 |-------------|----------------------------------------|

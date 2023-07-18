@@ -237,7 +237,7 @@ Older k-style constant definitions should be **avoided** unless writing CoreFoun
 
 ## Case Statements
 
-Braces are not required for case statements, unless enforced by the complier.  
+Braces are not required for case statements, unless enforced by the compiler.
 When a case contains more than one line, braces should be added.
 
 ```objc
